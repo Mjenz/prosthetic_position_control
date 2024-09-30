@@ -1,9 +1,9 @@
-# prosthetic_arm_control
+# Prosthetic Position Control
 
 ## Overview
-This project is a continution of an ongoing project to develop a transhumeral (above elbow) prosthetic arm that swings in time with a user's stride. 
+This project is a continution of an ongoing project to develop a transhumeral (above elbow) prosthetic arm that swings in time with a user's stride while they are walking.
 
-This repository is a guide to using the zephyr based software onto the teensy 4.1 this project uses.
+This repository is a guide to using the zephyr based software on the teensy 4.1 this project uses.
 
 ## Project Setup
 ### Zephyr
