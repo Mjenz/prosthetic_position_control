@@ -16,7 +16,7 @@ Since teensy's are not fully supported by zephyr, you might run into unique prob
 Next, clone this repository into your `zephyrproject/zephyr` folder.
 ```
 cd zephyrproject/zephyr
-git clone https://github.com/Mjenz/prosthetic_arm_control.git
+git clone https://github.com/Mjenz/prosthetic_position_control.git
 ``` 
 Inside this `prosthetic_arm_control` folder that you will build and flash the application.
 
